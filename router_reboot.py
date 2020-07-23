@@ -43,7 +43,7 @@ def is_connected():
 
 # Warns user that the router is about to restart, then at the end of the timer, restarts router then closes Chrome
 print('\nRESTARTING ROUTER IN:')
-countdown(5)
+countdown(60)
 
 WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.NAME, 'RESTART'))).click()
 
