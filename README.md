@@ -2,7 +2,7 @@
 Python 3 script for the automation of rebooting a router
 
 
-Why I started this project:
+<ins>Why I started this project:</ins>
 
 The internet at my house is abysmal. Our provider isn't great, and the router/gateway we have gets slow on a nearly weekly basis requiring the need to reboot. I got tired of getting up each time to unplug it when it slowed down, and I also hated having to log into the router's admin page. Also, the router doesn't have it's own scheduling abilities to automate reboots through the router. So I decided I would write a script to do the work for me that I could run whenever I need to.
 
